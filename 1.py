@@ -1,7 +1,7 @@
 import re
 import socket
 
-# 读取包含IP地址的文本文件
+# 读取包含IP地址的文本
 with open('nmap-ip.txt', 'r') as file:
     ip_data = file.read()
 
@@ -19,7 +19,7 @@ def scan_port(ip, port):
     sock.close()
     return result == 0
 
-# 显示开放的端口并保存到指定目录的文件
+# 显示开放的端口并保存到指定目录
 save_path = '/home/anon/in/'
 file_name = 'open_ports.txt'
 
