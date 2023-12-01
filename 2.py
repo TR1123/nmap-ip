@@ -1,6 +1,6 @@
 import re
 
-# 读取nmap扫描结果的文本文件
+# 读取nmap扫描结果的文本
 with open('IP.txt', 'r') as file:
     data = file.read()
 
