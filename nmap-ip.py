@@ -3,7 +3,7 @@ import subprocess
 import os
 
 os.system("clear")
-os.system("figlet Thank you for using😊")
+os.system("figlet TR1123😊")
 
 # 添加介绍信息
 print("\033[94m这是一个简单的nmap脚本，用于过滤出nmap扫描出的IP并检测端口开放，一些简单的命令介绍\033[0m")
