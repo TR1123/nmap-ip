@@ -25,5 +25,8 @@
 
 
 如何联系我？
-你可以在上联系我Twitter：@Fridu60529819
+
+你可以在Twitter：@Fridu60529819
+
 你可以在Telegram：t.me/AnonymousTR1123
+
