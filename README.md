@@ -21,6 +21,9 @@
 
 
 
-
-
 ![hacker](https://github.com/TR1123/nmap-ip/assets/129511785/0320b3a9-5ddb-4fbc-856f-e5f5a6a02b03)
+
+
+如何联系我？
+你可以在上联系我Twitter：@Fridu60529819
+你可以在Telegram：t.me/AnonymousTR1123
