@@ -1,12 +1,23 @@
-# nmap-ip
-一个过滤不必要的文字，只留下IP段，参考nmap开发       
+1.参考nmap扫描出的网段进行一个过滤，只留下IP段并检测3389端口开放，也可以自定义端口
+2.我已在kali Linux上测试，
+3.我已在Windows上测试，
+4.这个脚本通过3389端口扫描到肉鸡，从而可以得到傀儡机
+5.什么是僵尸网络？
+此程序可以扫描任意端口
+僵尸网络 Botnet 是指采用一种或多种传播手段，将大量主机感染bot程序（僵尸程序）病毒，从而在控制者和被感染主机之间所形成的一个可一对多控制的网络 [1]。
+攻击者通过各种途径传播僵尸程序感染互联网上的大量主机，而被感染的主机将通过一个控制信道接收攻击者的指令，组成一个僵尸网络。之所以用僵尸网络这个名字，是为了更形象地让人们认识到这类危害的特点：众多的计算机在不知不觉中如同中国古老传说中的僵尸群一样被人驱赶和指挥着，成为被人利用的一种工具。
 如何使用？
-你只需要在你的kali Linux 或者windows10，11 终端上键入python nmap-ip.py -h     
-已在kali Linux 上测试  已在Windows10上测试
-此程序针对于3389端口，当然你也可以更改指定端口
-如何安装？
-git clone https://github.com/TR1123/nmap-ip.git
+你只需要在你的kali Linux终端上键入：
+6.sudo su 
 
-cd nmap-ip
+7.git clone https://github.com/TR1123/nmap-ip
 
-python nmap-ip.py -h
+8. cd nmap-ip
+
+9. python nmap-ip.py
+
+10. 
+
+
+6.chmod +x nmap-ip.py
+
