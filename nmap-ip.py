@@ -20,7 +20,6 @@ os.system("figlet TR1123😊")
 print("\033[94m这是一个简单的nmap脚本，用于过滤出nmap扫描出的IP并检测端口开放，我开发它只是为了好玩😊\033[0m")
 print("\033[94m-e\033[0m僵尸网络程序用于扫描指定IP开放端口，你也可以自行添加端口，\033[30m-w\033[0m是指定保存文件的目录路径，\033[91m-cn\033[0m以中文显示所有命令参数，\033[91m-h\033[0m显示所有命令参数")
 print("\033[94m祝你使用愉快,后续我会继续开发一些命令\033[0m")
-print("https://github.com/TR1123/nmap-ip")
 
 # 创建命令行解析器
 parser = argparse.ArgumentParser(description='nmap_ip')
