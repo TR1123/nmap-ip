@@ -14,10 +14,14 @@
 
 8. cd nmap-ip
 
-9. python nmap-ip.py
+9. 使用效果：
 
-10. 
+10. python nmap-ip.py
+
+11. 
 
 
-6.chmod +x nmap-ip.py
 
+
+
+![hacker](https://github.com/TR1123/nmap-ip/assets/129511785/4d3755c0-cdee-45b6-88d6-f631daac8593)
