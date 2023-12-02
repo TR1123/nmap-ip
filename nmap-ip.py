@@ -2,6 +2,10 @@ import argparse
 import subprocess
 import os
 
+print("社交账号：")
+print("Twitter：@Fridu60529819")
+print("Telegram：t.me/AnonymousTR1123")
+
 os.system("clear")
 os.system("figlet TR1123😊")
 
