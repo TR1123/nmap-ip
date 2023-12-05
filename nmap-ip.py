@@ -9,17 +9,6 @@ print("Telegram：t.me/AnonymousTR1123")
 os.system("clear")
 os.system("figlet TR1123😊")
 
-
-import argparse
-import subprocess
-import os
-
-def clear_terminal():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-os.system("clear")
-os.system("figlet TR1123😊")
-
 # 添加介绍信息
 print("\033[94m这是一个简单的nmap脚本，用于过滤出nmap扫描出的IP段，并检测3389端口开放，我开发它只是为了好玩😊\033[0m")
 print("\033[94m-e\033[0m僵尸网络程序用于扫描指定IP开放端口，你也可以自行添加端口，\033[30m-w\033[0m是指定保存文件的目录路径，\033[91m-cn\033[0m以中文显示所有命令参数，\033[91m-h\033[0m显示所有命令参数")
